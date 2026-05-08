@@ -3,8 +3,8 @@ Trabajo Práctico Nº1 - Algoritmos y Estructura de Datos
 
 Integrantes:
 - Jesús García
-- Jon
+- Jonathan Caramazana
 - Sara Baez
-- Emanuel Chavez
+- Emanuel Chaves
 
 """
